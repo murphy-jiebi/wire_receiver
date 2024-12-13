@@ -1,8 +1,8 @@
 #include "protocol.h"
 
 #define FRAME_DATA_HEAD             0xAA
-#define FRAME_DATA_CMD_DETECT       0x51
-#define FRAME_DATA_CMD_FIRE         0x52
+#define FRAME_DATA_CMD_DETECT       0x53
+#define FRAME_DATA_CMD_FIRE         0x54
     
 #define FRAME_OFFSET_HEAD           0x00
 #define FRAME_OFFSET_LEN            0x01
