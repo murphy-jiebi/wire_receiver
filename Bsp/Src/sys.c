@@ -1,8 +1,8 @@
 #include "sys.h"
 #include <stdio.h>
 
-#define HSE_PLL 0
-#define HSE     1
+#define HSE_PLL 1
+#define HSE     0
 
 /**
   * @brief System Clock Configuration
